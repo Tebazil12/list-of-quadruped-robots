@@ -16,6 +16,25 @@ A list of programmable quadrupedal robots that can be acquired. Pull requests en
 
 <img src="https://camo.githubusercontent.com/dc711b9a3131e74cfecd26e33badea0a7fe82750/68747470733a2f2f6c6976652e737461746963666c69636b722e636f6d2f36353533352f34393631343639303735335f373865646361383362635f346b2e6a7067" height="250">
 
+- [Open Dog](https://www.youtube.com/watch?v=0BoPoWF_FwY)
+<img src="https://i.ytimg.com/vi/Mg3Dh8D3LSI/maxresdefault.jpg" height="250">
+
+- [SpotMicroAI](https://spotmicroai.readthedocs.io/en/latest/)
+<img src="https://spotmicroai.readthedocs.io/en/latest/assets/Knosterpitter.jpg" height="250">
+
+- [mjbots](https://mjbots.com/)
+<img src="https://cdn.shopify.com/s/files/1/0399/6273/8849/files/quada1-white-small_720x.jpg?v=1590807814g" height="250">
+
+- [DizzyRobot](https://www.dizzy.ai/)
+<img src="https://www.dizzy.ai/wp-content/uploads/WolfRenders2/PICTURE-1-ROBOT-DOG.jpg" height="250">
+
+- [Doggo](https://github.com/Nate711/StanfordDoggoProject)
+<img src="https://github.com/Nate711/StanfordDoggoProject/blob/master/images/hero.jpeg" height="250">
+
+- [Mini Cheeta](https://github.com/mit-biomimetics/Cheetah-Software) (not all parts available)
+<img src="https://1.bp.blogspot.com/-i6TkvS5I0GM/XfbjRWE35wI/AAAAAAAAXqo/j14NOP2pgG4aEE_pti5zysSxI9HuQJzrACLcBGAsYHQ/s640/cheetah_bv16_crop.jpg" height="250">
+
+
 ### Insect-like
 - [3D Printed Quadruped Robot](https://www.instructables.com/id/A-3D-Printed-Quadruped-Robot/)
 <img src="https://cdn.instructables.com/F5T/AFL7/IY4QMA1L/F5TAFL7IY4QMA1L.LARGE.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds" height="250">
@@ -39,8 +58,14 @@ A list of programmable quadrupedal robots that can be acquired. Pull requests en
 <img src="http://www.unitree.cc/cn/d/file/product/whole_machine_scheme/2018-12-03/d3841100d5c6e8db705cbd4de59a5af4.png" height="250">
 
 - [Aliengo](http://www.unitree.cc/e/action/ShowInfo.php?classid=6&id=363)
-
 <img src="http://www.unitree.cc/cn/d/file/product/whole_machine_scheme/2019-11-04/20f2d1f11eb610eefe879696361c6436.png" height="250">
+
+- [Extreme Shadow Series](http://www.deeprobotics.cn/)
+<img src="http://www.deeprobotics.cn/Upload/image/202003/20200311165354_3044.png" height="250">
+
+- [Ghost Spirit](https://www.ghostrobotics.io/robots)
+<img src="https://pbs.twimg.com/media/DVdlwYSWAAAPCg0.jpg" height="250">
+
 
 ### Insect-like
 - [Lynxmotion SQU3](http://www.lynxmotion.com/p-881-symmetric-quadruped-kit-botboarduino.aspx)
