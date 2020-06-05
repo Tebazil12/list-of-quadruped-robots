@@ -31,13 +31,21 @@ A list of programmable quadrupedal robots that can be acquired. Pull requests en
 - [Doggo](https://github.com/Nate711/StanfordDoggoProject)
 <img src="https://github.com/Nate711/StanfordDoggoProject/blob/master/images/hero.jpeg" height="250">
 
+- [3D Printed Robot Actuator](https://hackaday.io/project/157812-3d-printed-robot-actuator)
+<img src="https://cdn.hackaday.io/images/3041061528009747128.jpg" height="250">
+
 - [Mini Cheeta](https://github.com/mit-biomimetics/Cheetah-Software) (not all parts available)
 <img src="https://1.bp.blogspot.com/-i6TkvS5I0GM/XfbjRWE35wI/AAAAAAAAXqo/j14NOP2pgG4aEE_pti5zysSxI9HuQJzrACLcBGAsYHQ/s640/cheetah_bv16_crop.jpg" height="250">
 
+- [DIY hobby servos quadruped robot](https://hackaday.io/project/171456-diy-hobby-servos-quadruped-robot) (CADs coming soon) 
+<img src="https://cdn.hackaday.io/images/5647111591128171475.jpg" height="250">
 
 ### Insect-like
 - [3D Printed Quadruped Robot](https://www.instructables.com/id/A-3D-Printed-Quadruped-Robot/)
 <img src="https://cdn.instructables.com/F5T/AFL7/IY4QMA1L/F5TAFL7IY4QMA1L.LARGE.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds" height="250">
+
+- [Kame](https://hackaday.io/project/9334-kame-esp8266-based-quadruped)
+<img src="https://cdn.thingiverse.com/renders/ee/46/c7/c6/87/9144b72f115c249fa7bf74e4168c6c7c_preview_featured.jpg" height="250">
 
 ### Both / other
 
